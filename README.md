@@ -8,9 +8,9 @@
 <br>
 <p>
   - 🔭 I’m currently working on my personal website<br>
-- 🌱 I’m currently learning Algorithm Design and Analysis, Computer Vision, Web Dev, and IOS Dev<br>
-- 👯 I’m looking to collaborate on an IOS Development Project<br>
-- 🌞 I’m happy to chat about novel ideas about DevOps<br>
+- 🌱 I’m learning Algorithm Design and Analysis, Computer Vision, Web Dev, and IOS Dev<br>
+<!-- - 👯 I’m looking to collaborate on an IOS App Dev<br-->
+- 🌞 I’m happy to chat about novel ideas on DevOps<br> -->
 - 💬 Ask me about A Day in the Life of a STEM student<br>
 - 📫 Connect with me: <a href = "https://www.linkedin.com/in/cecilia-liu-2a9474250/">Cecilia's LinkedIn</a><br>
 - ⚡ Fun fact: I am a food connoisseur but I can only cook desserts
