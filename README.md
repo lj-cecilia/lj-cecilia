@@ -6,8 +6,7 @@
 <h3 align="left">An enthusiastic Summerholic | 80% Dog Lover, 20% Cat Admirer</h3>
 <br>
 <p>
-  - 🔭 Currently learning MERN stack<br>
-- 🌱 Learning Algorithm Design and Analysis, Computer Vision, Web Development, and IOS Development<br>
+  - 🌱 Currently learning MERN stack, Algorithm Design and Analysis, Computer Vision, Web Development, and IOS Development<br>
 <!-- - 👯 Open to collaborating on an IOS App<br-->
 </p>
 
