@@ -6,12 +6,8 @@
 <h3 align="left">An enthusiastic Summerholic | 80% Dog Lover, 20% Cat Admirer</h3>
 <br>
 <p>
-  - 🔭 Currently working on my personal website<br>
+  - 🔭 Currently learning MERN stack<br>
 - 🌱 Learning Algorithm Design and Analysis, Computer Vision, Web Development, and IOS Development<br>
 <!-- - 👯 Open to collaborating on an IOS App<br-->
-- 🌞 Always up for discussing novel ideas on DevOps<br>
-- 💬 Ask me about "A Day in the Life of a STEM Student"<br>
-- 📫 Let's connect on <a href = "https://www.linkedin.com/in/cecilia-liu-2a9474250/">Cecilia's LinkedIn</a><br>
-- ⚡ Fun fact: If I were not human, I'd probably be a tree
 </p>
 
